@@ -112,3 +112,19 @@ output:
 16
 16
 
+difference between emplace_back and push_back
+vec.reserve(3)
+
+Three storage reserve.
+
+vec.push_back( Dat(89, "New", 'G') );
+
+                      Copied to
+Dat(89, "New", 'G')   (temporary storage)
+
+vec.emplace_back(890, "Newest", 'D')
+
+                      Direct object creation
+Dat(890, "Newest", 'D')
+
+
