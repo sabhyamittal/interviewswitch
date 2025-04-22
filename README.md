@@ -1,0 +1,65 @@
+Daily Status of topics Covered!
+
+# Daily Status
+Notes for data structure and algos
+
+
+|Algorithms|Rev1|Rev2|Rev3|Rev4|Rev5|
+|:---------|:---|----|----|:---|:---|
+|Insertion sort|
+|Heap sort|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Merge sort|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Quick sort|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Maximum subarray|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Strassen’s Algorithm for matrix multiplication|:white_check_mark:|
+|Priority queues|:white_check_mark:|
+|Counting sort|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Radix sort|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Stacks|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Queues|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Linked list|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Binary search trees|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Red black trees|:white_check_mark:|
+|Interval trees|:white_check_mark:|
+|Rod cutting|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Matrix chain multiplication|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Longest common subsequence|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Optimal binary search tree|:white_check_mark:|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Activity selection problem|:white_check_mark:|:white_check_mark:|:white_check_mark:|
+|Huffman codes|:white_check_mark:|:white_check_mark:|
+|B-trees|:white_check_mark:|
+|Fibonacci heaps|:white_check_mark:|
+|Van Emde Boas trees|:white_check_mark:|
+|Linked list representation of disjoint sets|:white_check_mark:|
+|Breadth first search|:white_check_mark:|
+|Depth first search|:white_check_mark:|
+|Topological sort|:white_check_mark:|
+|Kruskal's algorithm|:white_check_mark:|:white_check_mark:|
+|Prim's algorithm|:white_check_mark:|
+|Bellman ford algorithm|:white_check_mark:|
+|Single source shortest paths in directed acyclic graphs|:white_check_mark:|
+|Dijkstra's algorithm|:white_check_mark:|
+|Floyd Warshall Algorithm|:white_check_mark:|
+|The ford fulkerson algorithm|:white_check_mark:|
+|Maximum bipartite algorithm|:white_check_mark:|
+|Push relable algorithm|:white_check_mark:|
+|The relable to front algorithm|
+|Multithreaded algorithm|:white_check_mark:|
+|Multithreaded matrix multiplication|:white_check_mark:|
+|Multithreaded merge sort|:white_check_mark:|
+|Matrix operation|:white_check_mark:|
+|Inverting matrices|:white_check_mark:|
+|The simplex algorithm|:white_check_mark:|
+|dft and fft|:white_check_mark:|
+|Greatest common divisor|:white_check_mark:|
+|The naive string matching algorithm|:white_check_mark:|
+|The rabin karp algorithm|:white_check_mark:|
+|String matching with finite automata|:white_check_mark:|
+| knuth morris pratt algorithm|:white_check_mark:|
+|Determining whether any pair of segment intersects|:white_check_mark:|
+|Finding a convex hull|:white_check_mark:|
+|Finding the closest pair of points|:white_check_mark:|
+|The vertex cover problem|:white_check_mark:|
+| travelling salesman problem|:white_check_mark:|
+| set covering problem|:white_check_mark:|
+| subset-sum problem|:white_check_mark:|
